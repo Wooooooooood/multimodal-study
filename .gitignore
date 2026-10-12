@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+*.log
+
+# 爬取/原始素材（不入库）
+_scrape/
+多模态论文合集/
+
+# 知识库中间产物
+知识库/_meta/
+知识库/_meta/texts*
+
+# 论文 PDF 不上传（仅保留 arXiv 编号引用）
+*.pdf
+*.pdf.tmp

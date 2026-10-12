@@ -1,0 +1,9 @@
+{
+  "name": "multimodal-study",
+  "version": "1.0.0",
+  "private": true,
+  "description": "多模态机器学习学习网站（纯静态、零依赖、零构建）",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
